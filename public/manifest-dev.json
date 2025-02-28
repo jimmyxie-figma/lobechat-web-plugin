@@ -1,7 +1,7 @@
 {
   "$schema": "../node_modules/@lobehub/chat-plugin-sdk/schema.json",
   "version": "1",
-  "identifier": "web",
+  "identifier": "search",
   "author": "Proghit",
   "homepage": "https://github.com/proghit/lobechat-web-plugin",
   "gateway": "http://localhost:3000/api/gateway",
